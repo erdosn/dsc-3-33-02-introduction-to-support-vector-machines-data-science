@@ -5,7 +5,7 @@
 
 By now you've learned a few techniques for classification: you touched upon it when talking about naive bayes, next we saw some supervised learning techniques such as logistic regression and decision trees. Now it's time for another fast and popular classification technique: Support Vector Machines.
 
-## Objectives
+#### Objectives
 
 You will be able to:
 
